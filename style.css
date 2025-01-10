@@ -1,0 +1,15 @@
+/* Center the chessboard on the page */
+#chessboard {
+  margin: 20px auto;
+  border: 2px solid #333;
+}
+
+/* Optional: Style the body for a better look */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Optional: Add styles for other elements if needed */
